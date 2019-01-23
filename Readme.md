@@ -1,3 +1,5 @@
-Those notebooks have been done 
-<h2> Title </h2>
-THis Jupyter notebook does this blabla 
+<h2> Metaheuristic </h2>
+
+Those notebooks were required during a Metaheuristic course
+
+
